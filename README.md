@@ -2,6 +2,9 @@
 Containerised golang faker lib for testing purposes
 
 ## Installation
+- `git clone git@github.com:rahulkp220/mockingo.git`
+- `cd mockingo`
+- `sh install.sh`
 
 ## Sample o/p
 ```
